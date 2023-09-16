@@ -29,6 +29,9 @@ div p {
 }
 
 .address-purpose {
-    /* border: 1px solid pink; */
-    /* text-align: center; */
+    background-color: #d5d5d5;
+    text-align: center;
+    padding: 1em 0;
+    color: #212121;
+    border-radius: 5px;
 }
