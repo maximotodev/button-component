@@ -1,0 +1,34 @@
+.wallet-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1em;
+}
+
+.wallet {
+    background-color: #fddfa8;
+    display: flex;
+    flex-direction: column;
+    padding: 1em;
+    border-radius: 10px;
+}
+
+.connect-btn {
+    width: 150px;
+    margin: 0 auto;
+    border-radius: 5px;
+    padding: 0.5em 1em;
+    background-color: orange;
+    margin-bottom: 1em;
+}
+
+div p {
+    word-break: break-all;
+    white-space: normal;
+    color: magenta;
+}
+
+.address-purpose {
+    /* border: 1px solid pink; */
+    /* text-align: center; */
+}
