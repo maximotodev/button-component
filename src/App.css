@@ -18,8 +18,9 @@
     margin: 0 auto;
     border-radius: 5px;
     padding: 0.5em 1em;
-    background-color: orange;
+    background-color: #b37400;
     margin-bottom: 1em;
+    color: white;
 }
 
 div p {

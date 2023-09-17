@@ -20,7 +20,7 @@ function App() {
           <p className='address'><span>address:</span> {addresses[0].address}</p>
         </div>
         <div className='wallet payment'>
-          <h4 className='address-purpose'>{addresses[1].purpose}</h4>
+          <h4 className='address-purpose'> bitcoin {addresses[1].purpose}</h4>
           <p className='pubkey'><span>publicKey:</span> {addresses[1].publicKey}</p>
           <p className='address'><span>address:</span> {addresses[1].address}</p>
         </div> 
